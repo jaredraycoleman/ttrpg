@@ -1,0 +1,11 @@
+{
+    "role": "The Detective",
+    "attributes": {
+        "Observation": 5,
+        "Influence": 3,
+        "Courage": 2
+    },
+    "background_item": "Camera",
+    "specialty": "Interview Techniques",
+    "starting_event": "Entering the diner and ordering coffee with steamed milk"
+}
