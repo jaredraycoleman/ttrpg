@@ -1,11 +1,15 @@
 {
-    "role": "The Detective",
     "attributes": {
-        "Observation": 5,
-        "Influence": 3,
-        "Courage": 2
+        "Strength": 5,
+        "Intellect": 1,
+        "Charm": 4
     },
-    "background_item": "Camera",
-    "specialty": "Interview Techniques",
-    "starting_event": "Entering the diner and ordering coffee with steamed milk"
+    "health": 5,
+    "time_points": 3,
+    "skill": "Combat Expert",
+    "items": [
+        "Portable Device"
+    ],
+    "captured_figures": 2,
+    "secured": true
 }
